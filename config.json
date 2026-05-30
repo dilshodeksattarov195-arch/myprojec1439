@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevonnect",
+        "uuid": 11350832,
+        "checksum": "czeda6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
